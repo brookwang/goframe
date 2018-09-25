@@ -4,7 +4,7 @@ import (
     "github.com/muesli/cache2go"
     "github.com/brookwang/goframe/constant"
     "github.com/brookwang/goframe/dao"
-    "sono/log"
+    "github.com/brookwang/log"
     "github.com/robfig/cron"
 )
 
