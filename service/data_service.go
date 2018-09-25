@@ -1,9 +1,9 @@
 package service
 
 import (
-    "github.com/goframe/model"
-    "github.com/goframe/dao"
-    "github.com/goframe/cache"
+    "github.com/brookwang/goframe/model"
+    "github.com/brookwang/goframe/dao"
+    "github.com/brookwang/goframe/cache"
 )
 
 type DataService struct {

@@ -2,13 +2,13 @@ package main
   
 import (
     "net/http"
-    "github.com/goframe/log"
-    "github.com/goframe/conf"
-    "github.com/goframe/service"
-    "github.com/goframe/dao"
+    "github.com/brookwang/goframe/log"
+    "github.com/brookwang/goframe/conf"
+    "github.com/brookwang/goframe/service"
+    "github.com/brookwang/goframe/dao"
     "fmt"
     "flag"
-    "github.com/goframe/cache"
+    "github.com/brookwang/goframe/cache"
 )
 
 func hello(w http.ResponseWriter, r *http.Request) {

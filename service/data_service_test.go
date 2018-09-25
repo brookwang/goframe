@@ -2,9 +2,9 @@ package service
 
 import (
     "testing"
-    "github.com/goframe/dao"
-    "github.com/goframe/conf"
-    "github.com/goframe/log"
+    "github.com/brookwang/goframe/dao"
+    "github.com/brookwang/goframe/conf"
+    "github.com/brookwang/goframe/log"
 )
 
 func setUp() {

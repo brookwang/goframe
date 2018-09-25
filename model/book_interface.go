@@ -2,7 +2,7 @@ package model
 
 import (
     "net/http"
-    "github.com/goframe/conf"
+    "github.com/brookwang/goframe/conf"
 )
 
 type Book interface {

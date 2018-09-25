@@ -6,10 +6,10 @@ import (
     . "gopkg.in/check.v1"
     "net/http"
     "fmt"
-    "github.com/goframe/dao"
-    "github.com/goframe/conf"
-    "github.com/goframe/cache"
-    "github.com/goframe/log"
+    "github.com/brookwang/goframe/dao"
+    "github.com/brookwang/goframe/conf"
+    "github.com/brookwang/goframe/cache"
+    "github.com/brookwang/goframe/log"
 )
 
 

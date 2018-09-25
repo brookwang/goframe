@@ -1,7 +1,7 @@
 package conf
 
 import (
-    "github.com/goframe/log"
+    "github.com/brookwang/goframe/log"
     "github.com/BurntSushi/toml"
     "flag"
     "os"

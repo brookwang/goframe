@@ -3,7 +3,7 @@ package utils
 import (
 	"encoding/json"
 
-	"github.com/goframe/log"
+	"github.com/brookwang/goframe/log"
 )
 
 // json 格式输出

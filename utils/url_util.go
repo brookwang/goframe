@@ -2,7 +2,7 @@ package utils
 
 import (
     "regexp"
-    "github.com/goframe/log"
+    "github.com/brookwang/goframe/log"
 )
 
 func IsNormal(url string) bool {

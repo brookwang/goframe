@@ -3,8 +3,8 @@ package dao
 import (
     "fmt"
     "github.com/go-redis/redis"
-    "github.com/goframe/constant"
-    "github.com/goframe/log"
+    "github.com/brookwang/goframe/constant"
+    "github.com/brookwang/goframe/log"
 )
 
 type Redis struct {

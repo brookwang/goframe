@@ -2,8 +2,8 @@ package cache
 
 import (
     "github.com/muesli/cache2go"
-    "github.com/goframe/constant"
-    "github.com/goframe/dao"
+    "github.com/brookwang/goframe/constant"
+    "github.com/brookwang/goframe/dao"
     "sono/log"
     "github.com/robfig/cron"
 )
