@@ -3,8 +3,8 @@ package main
 import (
     "fmt"
     "net/http"
-    "sono/conf"
-    "sono/log"
+    "github.com/goframe/conf"
+    "github.com/goframe/log"
 )
 
 func mockResponse(w http.ResponseWriter, r *http.Request) {

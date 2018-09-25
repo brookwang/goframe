@@ -3,12 +3,12 @@ package service
 import (
     "net/http"
     "fmt"
-    "sono/model"
-    "sono/utils"
+    "github.com/goframe/model"
+    "github.com/goframe/utils"
     "encoding/json"
     "gopkg.in/tomb.v2"
-    "sono/conf"
-    "sono/log"
+    "github.com/goframe/conf"
+    "github.com/goframe/log"
 )
 
 type Proxy struct {

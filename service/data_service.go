@@ -1,9 +1,9 @@
 package service
 
 import (
-    "sono/model"
-    "sono/dao"
-    "sono/cache"
+    "github.com/goframe/model"
+    "github.com/goframe/dao"
+    "github.com/goframe/cache"
 )
 
 type DataService struct {

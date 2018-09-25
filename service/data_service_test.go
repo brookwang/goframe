@@ -2,9 +2,9 @@ package service
 
 import (
     "testing"
-    "sono/dao"
-    "sono/conf"
-    "sono/log"
+    "github.com/goframe/dao"
+    "github.com/goframe/conf"
+    "github.com/goframe/log"
 )
 
 func setUp() {

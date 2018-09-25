@@ -2,7 +2,7 @@ package utils
 
 import (
     "regexp"
-    "sono/log"
+    "github.com/goframe/log"
 )
 
 func IsNormal(url string) bool {

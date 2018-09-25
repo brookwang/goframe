@@ -1,14 +1,14 @@
 package main
-
+  
 import (
     "net/http"
-    "sono/log"
-    "sono/conf"
-    "sono/service"
-    "sono/dao"
+    "github.com/goframe/log"
+    "github.com/goframe/conf"
+    "github.com/goframe/service"
+    "github.com/goframe/dao"
     "fmt"
     "flag"
-    "sono/cache"
+    "github.com/goframe/cache"
 )
 
 func hello(w http.ResponseWriter, r *http.Request) {

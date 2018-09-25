@@ -3,8 +3,8 @@ package dao
 import (
     "database/sql"
     _ "github.com/go-sql-driver/mysql"
-    "sono/log"
-    "sono/model"
+    "github.com/goframe/log"
+    "github.com/goframe/model"
 )
 
 type Mysql struct {

@@ -1,7 +1,7 @@
 package conf
 
 import (
-    "sono/log"
+    "github.com/goframe/log"
     "github.com/BurntSushi/toml"
     "flag"
     "os"

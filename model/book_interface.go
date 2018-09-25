@@ -2,7 +2,7 @@ package model
 
 import (
     "net/http"
-    "sono/conf"
+    "github.com/goframe/conf"
 )
 
 type Book interface {

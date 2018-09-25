@@ -2,7 +2,7 @@ package cache
 
 import (
     "testing"
-    "sono/dao"
+    "github.com/goframe/dao"
 )
 
 func TestLocalCache_GetMysqlData(t *testing.T) {
